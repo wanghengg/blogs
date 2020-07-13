@@ -1,3 +1,5 @@
+[TOC]
+
 # Cmake使用方法简介
 
 ## 0. Cmake简介
