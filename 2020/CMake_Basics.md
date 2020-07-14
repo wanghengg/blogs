@@ -80,3 +80,8 @@ add_executable(safeIntAdd main.cpp)
 3. set: 设置普通变量，缓存变量或环境变量
 4. add_executable: 使用列出的源文件构建可执行文件
 
+有几个需要注意的点：
+
+1. cmake的指令不区分大小写
+2. 在使用set指定指定CMAKE_CXX_FLAGS的时候通过空格来分隔多个编译选项，生成的CMAKE_CXX_FLAGS字符串是“-g;-Wall”，需要用字符串替换将分号替换为空格
+3. message可以在构建的过程中向stdout输出一些信息，上面的例子中的输出信息为：
