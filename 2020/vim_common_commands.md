@@ -1,4 +1,4 @@
-**重用命令可以直接看[鸟哥的linux私房菜]( http://cn.linux.vbird.org/linux_basic/0310vi_2.php#vi_command )**
+**常用命令可以直接看[鸟哥的linux私房菜]( http://cn.linux.vbird.org/linux_basic/0310vi_2.php#vi_command )**
 
 ## 自己不太熟悉的命令
 
